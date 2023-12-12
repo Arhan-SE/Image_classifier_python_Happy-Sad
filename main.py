@@ -5,6 +5,7 @@ import cv2
 import numpy
 from matplotlib import pylot as plt
 
+
 data_dr = 'Data'
 image_exts=['jpeg','jpg','png','bmp']
 
